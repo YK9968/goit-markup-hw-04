@@ -125,6 +125,20 @@ p {
   text-align: center;
 }
 
+.back-img {
+  max-width: 1158px;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(https://s3-alpha-sig.figma.com/img/7c8d/46d4/7e83b6c8ee4603ea892aa8aaebb3c5fe?Expires=1698624000&Signature=aGT5mwKkYtxeJ5qNd8kCYCpjpk6tlyXxhqmE6oCc2IS1Hy7IgMCgLRA~kX7S7DoM9Jr93JlGVG62akrlSMIRQ-vE9IXuMt0IUcTLXztinrEcHN1GaiopyOLXqv72piSOCHYYSlSZ7rUbfDLuAnpJAI~1yL8xqCtF30YWQ9QxPLbc5Z8gENQ17ik~wSvSva0BYOW9l64m6Mv~1j4SkTKJBZOmdc1NDu~aPzuMauCQNOJt3KfEAyn4RQ-FyQJEBdzBK5XUmqgTjJ1d8oO8hgmrJ2lvqst1Vmu7WbgkA8i4Cu2xD-c~7iHDGppFfjpf45W~BYEjJ7IXfcPa2rXtJbwIqg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+}
+
 .hero-main-title {
   font-size: 56px;
   font-weight: 700;
