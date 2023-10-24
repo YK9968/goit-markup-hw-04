@@ -130,8 +130,7 @@ p {
 .contacts .link:focus {
   color: #404bbf;
 }
-.contacts .link,
-.header-page-nav .link {
+.link-nav {
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
